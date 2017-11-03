@@ -10,7 +10,9 @@ Information about members is also needed.
 For each member the name, id, list of borrowed books and current number of borrowed books are stored. 
 It is important to keep the count of books a member is currently borrowed since the member is only allowed to borrow for 4 books at any given point in time. 
 
-The program facilitate books borrowing and returning Books through appropriate methods. There are two main types of library’s membership which they are: Golden Membership and Sliver Membership; Silver members are allowed to borrow up to 5 books while Gold members are allowed to borrow up to 10 books.
+The program facilitate books borrowing and returning Books through appropriate methods. 
+
+There are two main types of library’s membership which they are: Golden Membership and Sliver Membership; Silver members are allowed to borrow up to 5 books while Gold members are allowed to borrow up to 10 books.
 
 The system have the following capabilities:
 
@@ -18,7 +20,7 @@ The system have the following capabilities:
 
 - Add member, delete member and print list of name of members.
 
-- Borrowing book. (hint: you have to check if the book is available to borrow ).
+- Borrowing book. (hint: check if the book is available to borrow ).
 
 - Returning book and make it available for borrowing again
 
